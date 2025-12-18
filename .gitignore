@@ -5,3 +5,9 @@
 !.gitignore
 
 
+!.vscode/settings.json
+
+!.zprofile
+
+!.zshrc
+
