@@ -1,0 +1,65 @@
+{
+    "files.exclude": {
+        // 
+        // .Dot Folders
+        ".android": true,
+        ".antigravity": true,
+        ".aws": true,
+        ".cache": true,
+        ".config": true,
+        ".cursor": true,
+        ".dart-tool": true,
+        ".dartServer": true,
+        ".dbclient": true,
+        ".dlv": true,
+        ".docker": true,
+        ".flutter-devtools": true,
+        ".gc2": true,
+        ".gemini": true,
+        ".git": true,
+        ".gradle": true,
+        ".kiro": true,
+        ".local": true,
+        ".npm": true,
+        ".orbstack": true,
+        ".pgadmin": true,
+        ".pub-cache": true,
+        ".ssh": true,
+        ".Trash": true,
+        ".vim": true,
+        ".vscode-insiders": true,
+        ".zsh_sessions": true,
+        // 
+        // .Dot Files
+        ".flutter": true,
+        ".bash_history": true,
+        ".viminfo": true,
+        ".zsh_history": true,
+        // 
+        // .Dot {NO-IDEA} Files
+        ".CFUserTextEncoding": true,
+        ".emulator_console_auth_token": true,
+        ".lesshst": true,
+        ".psql_history": true,
+        ".python_history": true,
+        // 
+        // Folder
+        "go": true,
+        //    
+        // Build-In Folders
+        "Applications": true,
+        "Desktop": true,
+        "Documents": true,
+        "Downloads": true,
+        "Library": true,
+        "Movies": true,
+        "Music": true,
+        "Pictures": true,
+        "Public": true,
+        //    
+        // My Custom Folders
+        "app_data": true,
+        "git.*.uz": true,
+        "github.*": true,
+    },
+}

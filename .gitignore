@@ -5,6 +5,8 @@
 !.gitignore
 
 
+!.vscode
+.vscode/*
 !.vscode/settings.json
 
 !.zprofile
