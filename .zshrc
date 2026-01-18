@@ -55,7 +55,7 @@ alias gploc='git pull origin $(git rev-parse --abbrev-ref HEAD)'
 alias gpoc='git push origin $(git rev-parse --abbrev-ref HEAD)'
 
 
-alias goo='go run .'
+alias goo='go run -tags=dev .'
 alias gg='go get'
 alias gmt='go mod tidy'
 
