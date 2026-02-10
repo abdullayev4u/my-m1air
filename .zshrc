@@ -75,6 +75,8 @@ alias gtsd='gotestsum --format dots'
 
 alias goct='go clean -testcache'
 
+## Flutter
+alias fr='flutter run'
 
 
 
