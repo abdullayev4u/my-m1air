@@ -92,3 +92,6 @@ alias ag='agy'
 
 # Kiro Code - I dont like it and commented it out, but keeping it for now if needed later
 # [[ "$TERM_PROGRAM" == "kiro" ]] && . "$(kiro --locate-shell-integration-path zsh)"
+
+export PATH="$PATH:$HOME/Library/Android/sdk/platform-tools"
+
