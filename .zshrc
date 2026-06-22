@@ -96,3 +96,7 @@ alias ag='agy'
 export PATH="$PATH:$HOME/Library/Android/sdk/platform-tools"
 
 
+
+# Added by Antigravity IDE
+export PATH="/Users/myhome/.antigravity-ide/antigravity-ide/bin:$PATH"
+
